@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junaid Shaikh
-- 👀 I’m interested in Full-stack Web Development and DSA with Python
+- 👀 I’m interested in Full-stack Web Development and DSA with C++
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on peer Projects
 - 📫 How to reach me : https://www.instagram.com/zjunaidz
