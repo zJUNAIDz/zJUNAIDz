@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Junaid Shaikh
-- 👀 I’m interested in Full-stack Web Development and DSA with C++
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Full-stack Web Development and DSA 
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on peer Projects
-- 📫 How to reach me : https://www.instagram.com/zjunaidz
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/zjunaidz/)
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zjunaidz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😅 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
