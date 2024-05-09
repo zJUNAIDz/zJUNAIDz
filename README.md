@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junaid Shaikh
-- 👀 I’m interested in Full-stack Web Development and DSA 
+- 👀 I’m interested in JS technologies, GOlang and DSA
 - 🌱 I’m currently learning anything web
 - 💞️ I’m looking to collaborate on peer Projects
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/zjunaidz/)
@@ -14,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=zjunaidz&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zjunaidz&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjunaidz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zjunaidz&theme=react&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
