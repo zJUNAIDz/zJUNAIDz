@@ -73,9 +73,9 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjunaidz&show=reviews,prs_merged,commits&include_all_commits=true&theme=react)
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjunaidz&show=reviews,prs_merged,commits&include_all_commits=true&theme=react)
+<!-- ![Streak stats](https://github-readme-streak-stats.vercel.app/?user=zjunaidz&theme=react&hide_border=false) -->
 
-![Streak stats](https://github-readme-streak-stats.vercel.app/?user=zjunaidz&theme=react&hide_border=false)
 ![Top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=zjunaidz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
