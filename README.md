@@ -1,7 +1,7 @@
 # Hi, I'm Junaid Shaikh
 
 Fullstack engineer focused on backend systems, realtime applications, AI-powered products, and scalable web software.
-
+Decent foundation in core computer science fundamentals including data structures, algorithms, operating systems, networking, and databases. Developed through academic coursework and several hundred problem-solving exercises across LeetCode, Coding Ninjas, etc.
 I enjoy taking apart abstractions to understand what's happening underneath and then using that knowledge to build simpler, more reliable software.
 
 ---
